@@ -1,10 +1,20 @@
 {
-    "author": "Brendan Dayley",
-    "name": "censorify14003,
+    "author": "Brad Dayley",
+    "name": "censorify14003",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
-    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bharath1403-prog/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {
+        "censorify14003": "^0.1.1"
+    },
     "engines": {
         "node": "*"
     }
